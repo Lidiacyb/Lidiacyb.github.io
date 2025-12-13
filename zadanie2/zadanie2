@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Tu wpisz opis zawartości strony">
+	<title>ŻÓŁWIE</title>
+</head>
+<body>
+
+<b><h1>ŻÓŁWIE</b></h1>
+<p>Rząd żółwi obejmuje 356 gatunków oraz 122 podgatunki żyjące <i>od 1500 roku <sup>n.e.</sup></i><br>
+W tym czasie wyginęło <b>7 gatunków</b> oraz <b>3 podgatunki</b></p><br>
+Charakteryzują się obecnością pancerza chroniącego <sub>cały</sub> tułów. 
+Wśród żółwi spotyka się gatunki zarówno <u>mięsożerne</u>, jak i <u>roślinożerne</u>, wodne i lądowe. 
+<hr>
+Dział zoologii zajmujący się żółwiami to <span style="font-family: Wide Latin">chelonologia</span>.<br>
+<span style="font-size: xx-large">23 maja</span> obchodzony jest <span style="color: green">Światowy Dzień Żółwia</span>.<br>
+<a href="https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82wie">Wykorzystane materiały</a>
+<hr>
+<h2>Żółwie bokoszyjne:</h2>
+<ul>
+<li>żółwie wężoszyjne, matamatowate (Chelidae)</li>
+<li>pelomeduzowate (Pelomedusidae)</li>
+<li>Podocnemididae</li>
+</ul>
+<hr>
+<h3>Klasyfikacja rzędów żółwi:</h3>
+<table><table style="width: 70%">
+<tbody style="background-color: green">
+<tr>
+	<th>Nazwa rzędu żółwi</th>	<th>Autor</th>	<th>data</th>
+	</tr></tbody>
+	<tr><tbody>
+	<td><p style="text-align: center">Testudines</p></td>	<td><p style="text-align: center">Linnaeus</p></td>	<td><p style="text-align: center">1758</p></td>
+</tr></tbody>
+<tr><tbody>
+	<td><p style="text-align: center">Testudinata</p></td>	<td><p style="text-align: center">Klein</p></td>	<td><p style="text-align: center">1760</p></td>
+</tr></tbody>
+<tr><tbody>
+	<td><p style="text-align: center">Testudines</p></td>	<td><p style="text-align: center">Batsch</p></td>	<td><p style="text-align: center">1788</p></td>
+</tr></tbody>
+<tr><tbody>
+	<td><p style="text-align: center">Chelonii</p></td>	<td><p style="text-align: center">Latreille</p></td>	<td><p style="text-align: center">1800</p></td>
+</tr></tbody><tr><tbody>
+	<td><p style="text-align: center">Chelonia</p></td>	<td><p style="text-align: center">Ross and Macartney</p></td>	<td><p style="text-align: center">1802</p></td>
+</tr></tbody>
+</table>
+<hr>
+<h3>Przykładowe żółwie skrytoszyjne:</h3>
+<ol type="A">
+<li>żółwie morskie (Cheloniidae)</li>
+<li>żółwie skórzaste (Dermochelyidae)</li>
+<li>skorpuchowate (Chelydridae)</li>
+<li>żółwie dwupazurzaste, miękkoskórkowate (Carettochelyidae)</li>
+<li>żółwie błotne (Emydidae)</li>
+</ol>
+<hr>
+<h3>Definicje związane z żółwiami:</h3>
+<dl>
+ <dt>Chelonologia</dt>
+ <dd>gałąź zoologii, dział w reptiliologii i herpetologii zajmujący się badaniami żółwi.</dd>
+ <dt>Żółwie bokoszyjne</dt>
+ <dd>podrząd gadów z rzędu żółwi, które chowają szyję oraz głowę do pancerza przez zgięcie szyi w bok w płaszczyźnie poziomej.</dd>
+ <dt>Żółwie skrytoszyjne</dt>
+ <dd> podrząd gadów z rzędu żółwi. Nazwa ich wzięła się od sposobu, w jaki chowają głowę. Kiedy chcą to uczynić, wyginają szyję w płaszczyźnie pionowej w kształcie litery S i chowają ją do środka pancerza. </dd>
+</dl>
+</body>
+</html>
