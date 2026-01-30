@@ -1,0 +1,43 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=ISO-8859-2" />  
+  <title>[ Tytul dokumentu ]</title>
+</head>
+<body>
+<script language="JavaScript">
+
+function dodawanie() {
+/* Odwołanie do formularza i jego elementów przez nazwę*/
+var skl1=parseFloat(document.Form.a.value);
+var skl2=parseFloat(document.Form.b.value);
+var wynik = (skl1/(skl2*skl2));
+var opis="";
+if (wynik<18.5) opis="niedowaga"; else 
+if (wynik<25.0) opis="waga prawidlowa"; else
+if (wynik<30.0) opis="nadwaga"; else opis="otylosc";
+alert(wynik +" "+ opis);
+}
+
+</script>
+<script type=text/javascript>
+function sprawdz(x){
+if (x < 0 || x>2.50)
+    alert ("Podaj prawidlowa wartosc!");
+}
+
+</script>
+<script type=text/javascript>
+function zweryfikuj(y){
+if (y < 1 || y>250)
+    alert ("Podaj prawidlowa wartosc!");
+}
+
+</script>
+<form name="Form">
+waga w kilogramach=<input type="Text" name="a" onchange="zweryfikuj(this.value);"><br>
+wzrost w metrach=<input type="Text" name="b" onchange="sprawdz(this.value);"><br>
+<input type="Button" value="Oblicz bmi" onclick="dodawanie()">
+</form>
+<hr>
+</body>
+</html>
